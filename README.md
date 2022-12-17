@@ -1,5 +1,5 @@
 # despliegue_app
-
+>> APLICACION BackEnd
 
 ![image](https://user-images.githubusercontent.com/91167211/208209184-434bea94-1572-41f3-a4c6-290544c66144.png)
 
@@ -9,7 +9,7 @@
 
 Para verificar los contenedores que tenemos colocamos el comando docker ps
 
-![image](https://user-images.githubusercontent.com/91167211/208209626-0631de9a-8a09-4226-b908-914c2b9ce64a.png)
+![image](https://user-images.githubusercontent.com/91167211/208212553-61b69576-2553-4c0b-a79f-42191cf776ef.png)
 
 Colocamos el comando cat docker-compose.yml
 
